@@ -1,6 +1,8 @@
-Esse
+﻿Esse
 é
 um
 teste
 de
 commit
+
+alteração 02!
